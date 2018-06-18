@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+    color: black;
+    font-size: 18px;
+    background-image: url(images/backgroud.jpg);
+    background-size: cover;
+    width: 50%;
+    margin: auto;
+}
+h1{
+    background-color:#b3ecec;
+    border-bottom: solid 15px red;
+}
+.malzemeler {
+    color: red;
+}
+.başlık{
+    color: blue;
+    
+}
+p{
+    
+    text-align: center;
+}
+#yazi{
+    
+    font-family:Verdana;
+    font-size: 20px;
+    color: blueviolet;
+}
+img{
+    display: block;
+    width: :60%;
+    border: dotted 6px red;
+    border-radius: 100%;
+    margin: auto;
+}
